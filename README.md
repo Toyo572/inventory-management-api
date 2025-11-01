@@ -376,8 +376,8 @@ MIT License - Free to use for learning and portfolio purposes.
 Python Backend Developer
 
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/Toyo572)
-- LinkedIn: [Your Name](http://linkedin.com/in/toyosiogundele)
+- GitHub: [@Toyo572](https://github.com/Toyo572)
+- LinkedIn: [Toyosi Ogundele](http://linkedin.com/in/toyosiogundele)
 
 
 ---
