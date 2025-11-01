@@ -1,0 +1,68 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Django
+*.log
+db.sqlite3
+db.sqlite3-journal
+/media
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Docker files (no need to copy these into the image)
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentation
+README.md
+*.md
+docs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.nox/
+tests/
+*.test.py
+
+# CI/CD
+.github/
+
+# Backup files
+*.bak
+*.orig
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Other
+*.sqlite
+*.sqlite3

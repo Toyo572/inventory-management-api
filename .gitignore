@@ -1,0 +1,43 @@
+# Environment Variables (CRITICAL - contains secrets!)
+.env
+.env.local
+.env.*.local
+
+# Virtual Environment (CRITICAL - huge folder, not needed in repo)
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.Python
+
+# Django
+*.log
+db.sqlite3
+db.sqlite3-journal
+/staticfiles/
+/media/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Backup files
+*.bak
