@@ -1,12 +1,9 @@
 # Inventory Management API
 
+
+[![Docker Build](https://github.com/Toyo572/inventory-management-api/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Toyo572/inventory-management-api/actions) ![Django](https://img.shields.io/badge/django-5.2.7-green) ![Python](https://img.shields.io/badge/python-3.12-blue) ![Docker](https://img.shields.io/badge/docker-ready-blue)
+
 A production-ready REST API for inventory management built with Django and Docker. This project demonstrates modern backend development practices including containerization, API design, database management, and CI/CD automation.
-
-
-[![Docker Build](https://github.com/Toyo572/inventory-management-api/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Toyo572/inventory-management-api/actions)
-![Django](https://img.shields.io/badge/django-5.2.7-green)
-![Python](https://img.shields.io/badge/python-3.12-blue)
-![Docker](https://img.shields.io/badge/docker-ready-blue)
 
 ## 🎯 Project Overview
 
